@@ -21,3 +21,9 @@ running streamlitapp
 ```zsh
 streamlit run practice_1/myapp.py
 ```
+
+creating simple iris flower app
+
+```zsh
+streamlit run practice_2/irisapp.py
+```
