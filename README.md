@@ -15,3 +15,9 @@ creating requirements.txt file
 ```zsh
 touch requirements.txt
 ```
+
+running streamlitapp
+
+```zsh
+streamlit run practice_1/myapp.py
+```
